@@ -1,0 +1,19 @@
+.cm-button{
+    padding: 3px 15px;
+    font-size: 15px;
+    border-radius: 2px;
+    border: 1px solid #ccc;
+    color: #333;
+    user-select: none;
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+    vertical-align: middle;
+
+    -webkit-box-shadow: rgba(0, 0, 0, 0.117647) 0px 1px 6px, rgba(0, 0, 0, 0.117647) 0px 1px 4px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.117647) 0px 1px 6px, rgba(0, 0, 0, 0.117647) 0px 1px 4px;
+    box-shadow: rgba(0, 0, 0, 0.117647) 0px 1px 6px, rgba(0, 0, 0, 0.117647) 0px 1px 4px;
+}
+.cm-button-active{
+    border-color: #20A0FF;
+}
